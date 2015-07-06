@@ -1,0 +1,13 @@
+.todo-true{
+    text-decoration: line-through;
+    color: greenyellow;
+}
+.todo-false{
+    text-decoration: tomato;
+    color: #d32d2d;
+}
+.app-body{
+    margin-left: 37%;
+    background-color: rgba(32,22,83,0.3);
+    margin-top: 10%;
+}
